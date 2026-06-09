@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/generate
+Content-Type: application/json
+
+{
+  "url": "https://google.com",
+  "shortUrl":"google1"
+}
