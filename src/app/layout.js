@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Trimlinks - URL Shortener",
   description: "A modern link management platform for shortening, organizing, and tracking URLs efficiently.",
+  icon: "/favicon.png",
 };
 
 export default function RootLayout({ children }) {
